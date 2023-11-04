@@ -7,6 +7,7 @@ Passata di pomodoro
 Songino
 Pesche
 Prugne
+Mele
 Dolcetti
 
 -------
@@ -22,3 +23,6 @@ Rastrello
 Quarzo
 Filo
 Concime
+Cemento bianco
+Spatola
+Terreno
