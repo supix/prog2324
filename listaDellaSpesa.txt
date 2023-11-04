@@ -10,6 +10,7 @@ Pesche
 Prugne
 Mele
 Dolcetti
+Amaro
 
 -------
 
